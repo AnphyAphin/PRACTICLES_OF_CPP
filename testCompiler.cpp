@@ -1,6 +1,7 @@
 #include <iostream>
-
+using namespace std;
+/////////////////////////////////////////////////
 int main() {
-    std::cout << "C++ is working on Kali!" << std::endl;
+    cout << "C++ is working on Kali!" << endl;
     return 0;
 }
